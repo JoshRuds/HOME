@@ -5,14 +5,14 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.btn {
+a {
     background-color: black;
     color: white;
     padding: 15px 25px;
     text-decoration: none;
 }
 
-.btn:hover {
+a:hover {
     background-color: white;
     color: black;
 }
