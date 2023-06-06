@@ -13,6 +13,6 @@ body {
 }
 
 .btn:hover {
-    background-color: rgb(159, 147, 147);
+    background-color: rgba(159, 147, 147, 0.739);
     color: #000000;
 }
