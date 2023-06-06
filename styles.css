@@ -7,12 +7,12 @@ body {
 
 .btn {
     background-color: black;
-    color: white;
+    color: rgba(255, 255, 255, 0.739);
     padding: 15px 25px;
     text-decoration: none;
 }
 
 .btn:hover {
-    background-color: rgba(159, 147, 147, 0.739);
+    background-color: rgba(255, 255, 255, 0.739);
     color: #000000;
 }
