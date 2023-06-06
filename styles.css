@@ -13,6 +13,6 @@ a {
 }
 
 a:hover {
-    background-color: white;
-    color: black;
+    background-color: rgb(159, 147, 147);
+    color: #000000;
 }
