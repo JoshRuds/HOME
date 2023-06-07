@@ -3,6 +3,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
+    background-image: url('https://joshruds.github.io/HOME/assets/background.jpeg');
 }
 
 .btn {
@@ -14,5 +15,5 @@ body {
 
 .btn:hover {
     background-color: rgba(255, 255, 255, 0.739);
-    color: #000000;
+    color: black;
 }
